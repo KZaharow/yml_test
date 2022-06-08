@@ -2,3 +2,6 @@ records:
   - id: 1
     KEY1: hhh
     KEY2: 12
+  - id: 2
+    KEY1: iii
+    KEY2: 1.23
